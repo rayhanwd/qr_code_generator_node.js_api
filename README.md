@@ -1,0 +1,1 @@
+http://localhost:3000/qrcode?text=type your text here
